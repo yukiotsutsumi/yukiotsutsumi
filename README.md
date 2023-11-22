@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, c#, java, javascript and other languages that I could use in personal and profissional ways
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me felipe.tsutsumi@gmail.com
+- 📫 How to reach me ...
 
 <!---
 yukiotsutsumi/yukiotsutsumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
