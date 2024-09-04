@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yukiotsutsumi
-- 👀 I’m interested mostly in .NET framework, but i'm studying python, c#, java, javascript and other languages overall that I could use in personal and profissional ways
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested mostly in .NET framework, reactjs, but i'm also studying python, java, and other languages overall that I could use in personal and profissional ways
+- 💞️ Currently working with fullstack development
 - 📫 How to reach me ...
 
 <!---
